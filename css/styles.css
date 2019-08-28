@@ -1,0 +1,74 @@
+.main-nav {
+    background:#2E4053;
+}
+
+.nav-item a {
+    color: #fff;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 2.2rem;
+    color: #2E4053;
+}
+
+.price {
+    color: #F39C12;
+    font-size: 1.6rem;
+    font-weight: 900;
+}
+
+.basket-btn {
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+h5 {
+    color: #148F77;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-weight: 800;
+}
+
+.breadcrumb {
+    background: none;
+    font-weight: 600;
+    padding: 20px 0;
+}
+
+.breadcrumb-item a,
+.navbar-brand {
+    color: #2E4053;
+}
+
+.logo-colour {
+    font-weight: 800;
+    color: #148F77;
+    font-size: 1.8rem;
+}
+
+.navbar-brand {
+    font-weight: 500;
+}
+
+.features {
+    list-style: none;
+    padding: 0;
+    border-bottom: 1px solid #148F77;
+}
+
+.features li {
+    padding-bottom: 8px;
+}
+
+label {
+    padding-top: 20px;
+}
+
+.content-main {
+    padding-bottom: 120px;
+}
